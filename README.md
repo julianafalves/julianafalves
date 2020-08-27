@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Juliana a Computer Engineering Student at UFSCar - Brazil, a PyLadies Member and a Science Data enthusiastic!
+I'm Juliana a Computer Engineering Student at UFSCar - Brazil, a PyLadies Member and a Data Science enthusiastic!
 
 - 🔭 I’m currently working on Genetic Data and Machine Learning to predict Alzheimer Desease
 - 🌱 I’m currently learning about Machine Leaning, Bioinformatic and languages (English and French)
