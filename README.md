@@ -8,5 +8,5 @@ I'm Juliana a Computer Engineering Student at UFSCar - Brazil, a PyLadies Member
 - 💬 Ask me about brazilian foods, good Sitcoms and how to learn languages by yourself
 - 📫 How to reach me: @_julianafalves 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've watched Friends more than 10 times and I wouldn't have problems to watch again
+- ⚡ Fun fact: I watched Friends more than 10 times and I wouldn't have problems to watch it again
 
