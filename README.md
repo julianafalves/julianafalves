@@ -1,9 +1,12 @@
-### Hey there 👋
+### Hi, welcome! 🙂
 
-I'm Juliana a Computer Engineering Student at UFSCar - Brazil, a PyLadies Member, and a Data Science enthusiast!
+I'm Juliana, a Data Scientist passionate about technology, communities, and innovation.
 
-- 🔭 I’m currently working on Genetic Data and Machine Learning to predict Alzheimer's disease
-- 🌱 I’m currently learning about Machine Learning and Data Science
-- 📫 How to reach me: @_julianafalves 
-- 😄 Pronouns: she/her
+- Expertise in data science across health (genomics), finance (credit), and customer behavior.
+- Currently working in wholesale banking at Itaú, the largest financial institution in Latin America.
+- Proficient in Python, SQL, Excel, C/C++, SAS, and other technologies.
+- Experienced in leadership and project management within the PyLadies community.
+- Excited to develop my Data Science skills further and contribute innovative solutions.
+
+Feel free to reach out to discuss projects, opportunities, or any other topic!
 
